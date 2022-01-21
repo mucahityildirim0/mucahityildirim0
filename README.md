@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mucahityildirim0
-- 👀 I’m interested in ... Web/Open Source Software / App
-- 🌱 I’m currently learning ... React / React Native
-- 💞️ I’m looking to collaborate on ... Web Lover
-- 📫 How to reach me ... 00mucahityildirim@gmail.com 
+Hi there 👋, My name is Mücahit
 
-<!---
-mucahityildirim0/mucahityildirim0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am frontend developer
+
+Skills: HTML,CSS(SASS),Bootstrap,JS,ReactStrap,Material UI,Next JS,Git,Github,AWS,Firebase
+
+🌱 I’m currently learning NEXT JS
+How to reach me: 00mucahityildirim@gmail.com
