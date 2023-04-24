@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mücahit
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mücahit
 ===============================================================================================================================
 
 Frontend Developer
@@ -8,10 +8,6 @@ Frontend Developer
 * ✉️  You can contact me at [00mucahityildirim@gmail.com](mailto:00mucahityildirim@gmail.com)
 * 🧠  I'm learning NextJS
 
-<a href="https://www.twitter.com/mchtyldrm0" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mchtyldrm0?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
-/></a><a href="https://www.github.com/mucahityildirim0" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mucahityildirim0?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 ### Skills
 
 <p align="left">
