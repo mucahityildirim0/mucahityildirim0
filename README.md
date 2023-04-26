@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in İstanbul,Turkey
 * ✉️  You can contact me at [00mucahityildirim@gmail.com](mailto:00mucahityildirim@gmail.com)
-* 🧠  I'm learning NextJS
+* 
 
 ### Skills
 
